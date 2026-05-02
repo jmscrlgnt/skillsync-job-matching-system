@@ -66,68 +66,68 @@ LocalStorage (session handling)
 
 🌐 Public Pages
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.jpg)
 
 ### 📄 Job Listings
-![Jobs](screenshots/jobs.png)
+![Jobs](screenshots/jobs.jpg)
 
 ### ❓ FAQ Page
-![FAQ](screenshots/faq.png)
+![FAQ](screenshots/faq.jpg)
 
 ### 🤖 AI Assistant
-![AI](screenshots/ai-assistant.png)
+![AI](screenshots/ai-assistant.jpg)
 
 🔐 Authentication
 ### 📝 Register
-![Register](screenshots/register.png)
+![Register](screenshots/register.jpg)
 
 ### 🔑 Login
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpg)
 
 ### 🔁 Forgot Password
-![Forgot](screenshots/forgot-password.png)
+![Forgot](screenshots/forgot-password.jpg)
 
 👤 Job Seeker
 ### 📊 Dashboard
-![Dashboard](screenshots/user-dashboard.png)
+![Dashboard](screenshots/user-dashboard.jpg)
 
 ### 🎯 Job Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/recommendations.jpg)
 
 ### 📋 My Applications
-![Applications](screenshots/applications.png)
+![Applications](screenshots/applications.jpg)
 
 ### 💬 Messaging
-![Messaging](screenshots/messaging.png)
+![Messaging](screenshots/messaging.jpg)
 
 ### 🔔 Notifications
-![Notifications](screenshots/notifications.png)
+![Notifications](screenshots/notifications.jpg)
 
 ### 🧑 Profile
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile.jpg)
 
 🏢 Employer
 ### 📊 Employer Dashboard
-![Employer](screenshots/employer-dashboard.png)
+![Employer](screenshots/employer-dashboard.jpg)
 
 ### ➕ Post Job
-![Post Job](screenshots/post-job.png)
+![Post Job](screenshots/post-job.jpg)
 
 ### 📁 Manage Jobs
-![Manage](screenshots/manage-jobs.png)
+![Manage](screenshots/manage-jobs.jpg)
 
 ### 👥 Applicants
-![Applicants](screenshots/applicants.png)
+![Applicants](screenshots/applicants.jpg)
 
 🛡️ Admin
 ### 📊 Admin Dashboard
-![Admin](screenshots/admin-dashboard.png)
+![Admin](screenshots/admin-dashboard.jpg)
 
 ### 👤 User Management
-![Users](screenshots/user-management.png)
+![Users](screenshots/user-management.jpg)
 
 ### 📄 Job Moderation
-![Jobs](screenshots/job-moderation.png)
+![Jobs](screenshots/job-moderation.jpg)
 
 ## ⚙️ Setup Guide
 
