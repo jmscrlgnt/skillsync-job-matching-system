@@ -1,0 +1,10 @@
+How to run:
+1. Make sure MariaDB service is running
+2. In DBeaver or MariaDB, create/import database skillsync_final
+3. In a terminal, go to the skillsync folder
+4. Start backend:
+   npm start
+5. In another terminal, start PHP:
+   php -S localhost:8000
+6. Open browser:
+   http://localhost:8000/
