@@ -1,15 +1,16 @@
-📌 Overview
+Overview
 
-SkillSync is a web-based internship and job matching system that connects students and employers using a skill-based recommendation algorithm.
-Instead of traditional keyword matching, the system analyzes user skills and job requirements to generate accurate and relevant job matches, improving both job searching and recruitment efficiency.
+SkillSync is a web-based internship and job matching system designed to connect students and employers through skill-based job recommendations.
+
+Unlike traditional keyword-based matching, SkillSync analyzes user skills and job requirements to generate relevant job recommendations. The system provides a centralized platform for job seekers, employers, and administrators to manage the recruitment and application process.
 
 The platform provides a centralized environment where:
-Students can discover and apply for jobs
-Employers can post jobs and evaluate applicants
-Administrators can manage the entire system
+Students to discover and apply for job opportunities
+Employers to post job opportunities and evaluate applicants
+Administrators to manage users, job postings, and system activities
 
-🚀 Features
-👤 User (Job Seeker)
+Features
+Job Seeker
 Account registration & secure login
 Profile management (skills, education, experience)
 Skill-based job recommendations
@@ -20,7 +21,7 @@ Save jobs
 Messaging system with employers
 Notifications system
 
-🏢 Employer
+Employer
 Create and manage company profile
 Post job opportunities with required skills
 Manage job listings (edit/delete)
@@ -28,14 +29,14 @@ View and evaluate applicants
 Accept or reject applicants
 Communicate with job seekers
 
-🛡️ Admin
+Admin
 Approve/reject user accounts
 Moderate job postings
 Manage all users (students & employers)
 Monitor system activity
 Handle inquiries and notifications
 
-⚙️ System Features
+System Features
 Skill-based matching algorithm
 Role-based access control (User / Employer / Admin)
 Authentication & validation
@@ -44,7 +45,7 @@ Messaging system
 Dashboard for each role
 Centralized database management
 
-🛠 Tech Stack
+Tech Stack
 
 Frontend
 HTML
@@ -62,76 +63,76 @@ Other Tools
 PHPMailer (email handling)
 LocalStorage (session handling)
 
-📸 Screenshots
+Screenshots
 
-🌐 Public Pages
-### 🏠 Homepage
+Public Pages
+### Homepage
 ![Homepage](screenshots/homepage.jpg)
 
-### 📄 Job Listings
+### Job Listings
 ![Jobs](screenshots/jobs.jpg)
 
-### ❓ FAQ Page
+### FAQ Page
 ![FAQ](screenshots/faq.jpg)
 
-### 🤖 AI Assistant
+### AI Assistant
 ![AI](screenshots/ai-assistant.jpg)
 
-🔐 Authentication
-### 📝 Register
+Authentication
+### Register
 ![Register](screenshots/register.jpg)
 
-### 🔑 Login
+### Login
 ![Login](screenshots/login.jpg)
 
-### 🔁 Forgot Password
+### Forgot Password
 ![Forgot](screenshots/forgot-password.jpg)
 
-👤 Job Seeker
-### 📊 Dashboard
+Job Seeker
+### Dashboard
 ![Dashboard](screenshots/user-dashboard.jpg)
 
-### 🎯 Job Recommendations
+### Job Recommendations
 ![Recommendations](screenshots/recommendations.jpg)
 
-### 📋 My Applications
+### My Applications
 ![Applications](screenshots/applications.jpg)
 
-### 💬 Messaging
+### Messaging
 ![Messaging](screenshots/messaging.jpg)
 
-### 🔔 Notifications
+### Notifications
 ![Notifications](screenshots/notifications.jpg)
 
-### 🧑 Profile
+### Profile
 ![Profile](screenshots/profile.jpg)
 
-🏢 Employer
-### 📊 Employer Dashboard
+Employer
+### Employer Dashboard
 ![Employer](screenshots/employer-dashboard.jpg)
 
-### ➕ Post Job
+### Post Job
 ![Post Job](screenshots/post-job.jpg)
 
-### 📁 Manage Jobs
+### Manage Jobs
 ![Manage](screenshots/manage-jobs.jpg)
 
-### 👥 Applicants
+### Applicants
 ![Applicants](screenshots/applicants.jpg)
 
-🛡️ Admin
-### 📊 Admin Dashboard
+Admin
+### Admin Dashboard
 ![Admin](screenshots/admin-dashboard.jpg)
 
-### 👤 User Management
+### User Management
 ![Users](screenshots/user-management.jpg)
 
-### 📄 Job Moderation
+### Job Moderation
 ![Jobs](screenshots/job-moderation.jpg)
 
-## ⚙️ Setup Guide
+## Setup Guide
 
-### 📦 Requirements
+### Requirements
 - PHP (v7.4 or higher)
 - MySQL / MariaDB
 - DBeaver (or any SQL client)
