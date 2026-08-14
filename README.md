@@ -9,7 +9,7 @@ Employers can post jobs and evaluate applicants
 Administrators can manage the entire system
 
 🚀 Features
-👤 User (Job Seeker)
+ 👤 User (Job Seeker)
 Account registration & secure login
 Profile management (skills, education, experience)
 Skill-based job recommendations
