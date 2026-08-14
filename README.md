@@ -9,7 +9,8 @@ Employers can post jobs and evaluate applicants
 Administrators can manage the entire system
 
 🚀 Features
- 👤 User (Job Seeker)
+
+👤 User (Job Seeker)
 Account registration & secure login
 Profile management (skills, education, experience)
 Skill-based job recommendations
@@ -19,7 +20,6 @@ Track application status (Pending / Accepted / Rejected)
 Save jobs
 Messaging system with employers
 Notifications system
-
 🏢 Employer
 Create and manage company profile
 Post job opportunities with required skills
@@ -27,14 +27,12 @@ Manage job listings (edit/delete)
 View and evaluate applicants
 Accept or reject applicants
 Communicate with job seekers
-
 🛡️ Admin
 Approve/reject user accounts
 Moderate job postings
 Manage all users (students & employers)
 Monitor system activity
 Handle inquiries and notifications
-
 ⚙️ System Features
 Skill-based matching algorithm
 Role-based access control (User / Employer / Admin)
@@ -47,18 +45,22 @@ Centralized database management
 🛠 Tech Stack
 
 Frontend
+
 HTML
 CSS
 JavaScript
 
 Backend
+
 PHP
 Node.js (server.js)
 
 Database
+
 MySQL
 
 Other Tools
+
 PHPMailer (email handling)
 LocalStorage (session handling)
 
